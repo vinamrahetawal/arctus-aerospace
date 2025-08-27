@@ -2,7 +2,7 @@
   <img src="public\arctusaerospace_logo.png" alt="Arctus Aerospace Logo" width="120" height="120" />
 </p>
 
-# Arctus Aerospace
+# Arctus Aerospace [https://arctus-aerospace.vercel.app/]
 
 This is the project website for Arctus Aerospace, a visionary defense and space manufacturing startup. The project is a modern, responsive web application built with Next.js and styled with Tailwind CSS, showcasing the company’s mission, vision, and innovation in aerospace.
 
@@ -97,6 +97,12 @@ npm start
 ├── tailwind.config.ts
 └── README.md
 ```
+
+
+## 🚀 Deployment
+
+This project is deployed with Vercel.
+visit : [https://arctus-aerospace.vercel.app/]
 
 ## License
 
